@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "sdispater",
+  "repo": "flask-orator",
+  "versions": [
+    {
+      "commit": "f1d6e2a7a855928a458c69efc36c7a77451c80b4",
+      "parsed_at": "2026-10-20T21:53:03.583406+00:00",
+      "filetree": "filetree/f1d6e2a7a855928a458c69efc36c7a77451c80b4.nq.gz",
+      "blobs": [
+        "blob/633f866158ac742cf754a2c43edcb07e3a094f3c.nq.gz",
+        "blob/f0567a39131c67db43cb175985166262c18719e9.nq.gz",
+        "blob/d737b7514b168139e83c18afd0f86342c23d304c.nq.gz",
+        "blob/9753d8f7d82b6fb5ff7a5c98ea5d3cd6ae2ccf51.nq.gz",
+        "blob/e0141e9a5495441eb3131dd551c9f860f8a16be6.nq.gz",
+        "blob/677bf5dddcc6d0f7117dff995923cca9111e3158.nq.gz",
+        "blob/625bed64a9cbb7f3ccbe8d216ee07aebeef19c8e.nq.gz",
+        "blob/fa302706be828501c6dc76ec2da17506c010fa01.nq.gz",
+        "blob/add0901f6d2028b98d8823619bd777cacd0805b1.nq.gz",
+        "blob/9cb239600796bb3782ac945292642726e5276b2a.nq.gz",
+        "blob/2e37694e8bd1ae0a4a98a6f57495b300e83c8dd8.nq.gz",
+        "blob/23fb0c354fe969a2f27497b59603d8838e8bc4d6.nq.gz",
+        "blob/f3efa2d34841cbf8e44b8696484a1c35fa407c4b.nq.gz",
+        "blob/bea6fdf26f1014f3c64d72c75597de63dee86e5a.nq.gz",
+        "blob/3c6660ebe3bdd5ae967e9454c3f09f4eab503d79.nq.gz",
+        "blob/676166b918055b92f23f53012bedd14ab51db758.nq.gz",
+        "blob/bc5f5a7dada178f16e44bf9ef18c62865146a369.nq.gz",
+        "blob/701df228d97e9bf3f2b10c5634107daff2f7bd3d.nq.gz",
+        "blob/db93d1d225e1403fe4e1160d839691c4d544b9ab.nq.gz",
+        "blob/049681c6f27bdc1d93a8578903f63923b4e235fd.nq.gz",
+        "blob/c16d885dde13f323ad4adacdabcdc815d5c99840.nq.gz",
+        "blob/bcaf588abad09636032fb4fbb494fed3a6a4d8f1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
